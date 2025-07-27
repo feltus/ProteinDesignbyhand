@@ -1,4 +1,4 @@
-# Computational Practice: Design a protein de novo with a specific secondary structure
+# Manual Assignment (MA4): Design a protein de novo with a specific secondary structure
 ##  Lab Overview
 If we could accurately predict protein structure, we would know the “shape” of the major tools that make up an organism. This would allow the in silico modeling of biomolecular systems and facilitate rational drug design.
 
@@ -32,11 +32,11 @@ Design a protein de novo.
 Using what you know about secondary structures in general and amino acid propensity in secondary structures:
 
 #### Step A. 
-Design a protein from scratch that contains this secondary structure pattern: three beta-strands flanked by two alpha helices.   Save the protein sequence in FASTA format.  
+Design a protein from scratch that contains this secondary structure pattern: three alpha helices, each seperated by a beta strand (ALPHA-BETA-ALPHA-BETA-ALPHA).   Save the protein sequence in FASTA format.  
+
 #### Step B. 
 Use Jpred4 software (http://www.compbio.dundee.ac.uk/jpred)  to see if your prediction was correct.  If you’re the protein was incorrectly designed, then please try again 😊.
 
 ###  Task B: 
-(Optional) Human-assisted structure prediction.  
+Make a PDF with your FASTA sequnce and a a screenshot of the JPRED results showing that you created the correct protein. Upload this PDF to Canvas.
 
-On your personal computer or the Linux Desktop, install Foldit, a gaming-based structure refinement program (https://fold.it/).  Do the tutorials if you want to learn more about protein folding and how humans can help find the optimal fold.
