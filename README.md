@@ -35,7 +35,7 @@ Using what you know about secondary structures in general and amino acid propens
 Design a protein from scratch that contains this secondary structure pattern: three alpha helices, each separated by a beta strand (ALPHA-BETA-ALPHA-BETA-ALPHA).   Save the protein sequence in FASTA format.  
 
 #### Step B. 
-Use Jpred4 software (http://www.compbio.dundee.ac.uk/jpred)  to see if your prediction was correct.  If you’re the protein was incorrectly designed, then please try again 😊.
+Use secondary structure prediction software like Jpred4 (http://www.compbio.dundee.ac.uk/jpred) or PSIPRED(https://bioinf.cs.ucl.ac.uk/psipred/) to see if your prediction was correct.  If you’re the protein was incorrectly designed, then please try again 😊.
 
 ###  Task B: 
 Make a PDF with your FASTA sequence and a screenshot of the JPRED results showing that you created the correct protein. Upload this PDF to Canvas.
